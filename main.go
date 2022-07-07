@@ -19,7 +19,6 @@ func readInput() string {
 	}
 	return str
 }
-
 func returnCount(str string) int {
 	counter := 0
 	if len(str) == 0 {
